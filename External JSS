@@ -1,0 +1,11 @@
+<html>
+    <body>
+       <h1>External JSS</h1> 
+       <p>There is a separate JSS file linked to this project</p>
+       <button type="button" onclick="abc()">Find out the square of 75</button>
+       <button type="button" onclick="ab()">Find out the cube of 75</button>
+       <p id="demo"></p>
+       <p id="demo2"></p>
+       <script src="external.js"></script>
+    </body>
+</html>
